@@ -123,13 +123,13 @@ Car_Price_Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Car-Price-Prediction.git
+git clone https://github.com/PRATIMA1Pratima/codealpha_Car_Price_Prediction.git
 ```
 
 Move into the project directory
 
 ```bash
-cd Car-Price-Prediction
+cd codealpha_Car_Price_Prediction
 ```
 
 Install the required libraries
@@ -143,18 +143,6 @@ Run the Streamlit application
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Project Screenshots
-
-You can add screenshots here after running the Streamlit application.
-
-Example:
-
-- Home Page
-- Prediction Result
-- Feature Importance Graph
 
 ---
 
@@ -187,7 +175,7 @@ Through this project, I learned:
 
 **Pratima**
 
-B.Tech Computer Science Engineering (AI & Machine Learning)
+B.Tech Computer Science Engineering (AI & Machine Learning), 3rd Year
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
